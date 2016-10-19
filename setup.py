@@ -18,7 +18,6 @@ setup(name='geograpy',
       license='MIT',
       packages=['geograpy'],
       install_requires=[
-            'nltk',
             'newspaper',
             'jellyfish',
             'pycountry'
